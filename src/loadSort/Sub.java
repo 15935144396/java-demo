@@ -6,7 +6,7 @@ public class Sub extends SubBase {
 
     public Sub()
     {
-        System.out.println("----Sub---: Init SubClass " + this.b2);
+        System.out.println("----Sub---: Init SubClass " );
     }
 
     public static int getStaticNumber()
